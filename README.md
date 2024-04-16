@@ -16,7 +16,7 @@ Simplified diagram of engine simulated in C-MAPSS is shown above.
 
 **Date:** 22nd April 2023
 
-**GitHub link:** https://github.com/debampl/ML_IISC_CCE_RUL_Clipping
+**GitHub link:** https://github.com/debampl/ML_IISC_CCE_RUL_Clipping  and https://github.com/VijayAerospace/ML_IISC_CCE_RUL_FD003_V1_2023
 
 **Code name:** ML_IISC_CCE_RUL_FD003_V1_2023.ipynb
 
